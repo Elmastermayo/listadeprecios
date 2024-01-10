@@ -49,7 +49,7 @@
 </head>
 <body>
   <script>
-    const AS_URL_BASE = "https://drive.google.com/drive/u/0/folders/1X9RZIDX1_Y8kI3Cpxjj9ztth7Z6l3rUR";
+    const AS_URL_BASE = "https://script.google.com/macros/s/AKfycbxVFnQokMC1-eb6ZbIZjDeWTYStptA-o1lGv0KxysirUtMqlPl47JSbSaiOSYnDnaKv/exec";
     
     var url = document.location.href;
     var k = url.substr(url.lastIndexOf("k=")+2);
